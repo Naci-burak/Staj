@@ -1,0 +1,8 @@
+# ninja log v5
+1	1799	7085269934449860	CMakeFiles/calisma_5.dir/main.cpp.obj	27c2052a142612fe
+5	1021	7085271201838587	CMakeFiles/calisma_5.dir/Account.cpp.obj	ee13c011be77493d
+1023	1855	7085271209930095	calisma_5.exe	3596e8d16ca6add7
+16	1730	7085278641247801	CMakeFiles/calisma_5.dir/Account.cpp.obj	ee13c011be77493d
+5	1297	7085278905011735	CMakeFiles/calisma_5.dir/Account.cpp.obj	ee13c011be77493d
+21	1497	7085278907021292	CMakeFiles/calisma_5.dir/main.cpp.obj	27c2052a142612fe
+1497	2379	7085278915593945	calisma_5.exe	3596e8d16ca6add7
