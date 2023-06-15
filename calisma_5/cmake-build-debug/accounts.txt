@@ -1,0 +1,5 @@
+1	Naci	salary	4000
+2	Fırat	current	1000
+3	Ecem	saving	100
+4	Beyza	saving	4500
+5	asdasda	dasd	343
